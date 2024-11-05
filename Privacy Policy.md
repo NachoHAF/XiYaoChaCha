@@ -26,7 +26,7 @@ We do not share, sell, or rent any of the information collected through the YaoC
 We take reasonable measures to protect the information collected through the YaoChaCha app from unauthorized access, disclosure, alteration, or destruction.
 
 ## User Rights
-You have the right to access, update, or delete the information associated with your use of the YaoChaCha app. If you have any questions or requests regarding your information, please contact us at [support@yaochacha.com].
+You have the right to access, update, or delete the information associated with your use of the YaoChaCha app. If you have any questions or requests regarding your information, please contact us at [nachochovivo@gmail.com].
 
 ## Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. You will be notified of any material changes via an in-app notification or email (if you have provided your email address).
@@ -34,5 +34,4 @@ We may update this Privacy Policy from time to time. You will be notified of any
 ## Contact Us
 If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at:
 
-[support@yaocharcha.com]
 [nachochovivo@gmail.com]
